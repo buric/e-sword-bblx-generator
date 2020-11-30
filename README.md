@@ -92,4 +92,4 @@ foreach ($data as $verse) {
 }
 ```
 
-That's it. You can now import the generated bblx module to your e-Sward.
+That's it. You can now import the generated bblx module to your e-Sword.
